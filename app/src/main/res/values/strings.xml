@@ -1,0 +1,8 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Filmmaster General</string>
+    <string name="textview">Search For Films!</string>
+    <string name="button">Search</string>
+    <string name="hint">Film Title</string>
+    <string name="activity_details">Film Details</string>
+</resources>
